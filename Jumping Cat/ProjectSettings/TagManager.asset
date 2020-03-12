@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Duvar
+  - Gecis
+  - Oyuncu
+  - Bariyer
+  - Bariyer_Trigger
+  - Dalgalar
+  - LevelGecis_KameraTetikleme
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bariyer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Duvar
+    uniqueID: 2594588647
+    locked: 0
+  - name: Dalga
+    uniqueID: 1528508643
+    locked: 0
+  - name: MG_Bariyer
+    uniqueID: 3691486045
+    locked: 0
+  - name: Oyuncu
+    uniqueID: 1763571495
+    locked: 0
